@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My portfolio"
+title                    : "Niteshkumar Jha"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Niteshkumar Jha"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Niteshkumar Jha"
+  name             : "Data Scientist"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science fresher with knowledge of statistics and Machine learning and hands-on experience in programming language Python and R, BI tools Excel and Tableau looking for challenging and exciting opportunity in the ﬁeld of Data Science."
   location         : "Mumbai, India"
