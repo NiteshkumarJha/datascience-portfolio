@@ -1,5 +1,7 @@
 
-# **LTFS Data Science FinHack 2**
+---
+title = "LTFS Data Science FinHack 2"
+---
 
 ## **Problem statement**
 
