@@ -1,8 +1,8 @@
 ---
-title: "Niteshkumar Jha"
 permalink: /about/
-redirect_from:
-  - /theme-setup/
+title: "Niteshkumar Jha"
+excerpt: "Some detail about me."
+toc: true
 ---
 
 Data Science fresher with knowledge of statistics and Machine learning and hands-on experience in programming language Python and R, BI tools Excel and Tableau looking for challenging and exciting opportunity in the field of Data Science.
