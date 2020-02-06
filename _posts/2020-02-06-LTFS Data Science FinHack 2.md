@@ -1,6 +1,15 @@
 
 ---
-title = "LTFS Data Science FinHack 2"
+title: "LTFS Data Science Finhack 2"
+categories:
+  - Hackathon
+tags:
+  - Data Science
+  - Machine Learning
+  - Scikit-learn
+  - pandas
+  - numpy
+  - Randomforest
 ---
 
 ## **Problem statement**
