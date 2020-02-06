@@ -11,7 +11,7 @@ layouts_gallery:
 - alt: archive layout example
   image_path: /assets/images/mm-layout-archive.png
   url: /assets/images/mm-layout-archive.png
-permalink: https://github.com/NiteshkumarJha/datascience-portfolio/about/
+permalink: /about/
 excerpt: Some details about me
 ---
 
