@@ -1,6 +1,8 @@
 ---
 title: "Niteshkumar Jha"
-permalink: "https://niteshkumarjha.github.io/datascience-portfolio/about"
+permalink: /about/
+redirect_from:
+  - /theme-setup/
 ---
 
 Data Science fresher with knowledge of statistics and Machine learning and hands-on experience in programming language Python and R, BI tools Excel and Tableau looking for challenging and exciting opportunity in the field of Data Science.
